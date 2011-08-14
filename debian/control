@@ -20,8 +20,7 @@ Replaces: kdebase-workspace-data (<< 4:4.6.80),
           kdebase-workspace-wallpapers (<< 4:4.6.80),
           kdm (<< 4:4.6.0)
 Description: set of wallpapers for the Plasma workspace
- This package contains wallpapers from KDE. It's not installed by default
- to save space.
+ This package contains wallpapers from KDE. 
 
 Package: kde-wallpapers-default
 Architecture: all
