@@ -1,0 +1,38 @@
+Source: kde-wallpapers
+Section: kde
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Harald Sitter <apachelogger@ubuntu.com>
+Build-Depends: kde-sc-dev-latest (>= 4:4.7.0),
+ cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12), kdelibs5-dev (>= 4:4.6)
+Standards-Version: 3.9.2
+Homepage: http://www.kde.org/
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kde-wallpapers
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kde-wallpapers
+
+Package: kde-wallpapers
+Architecture: all
+Depends: kde-wallpapers-default (>= ${source:Version}), ${misc:Depends}
+Breaks: kdebase-workspace-data (<< 4:4.6.80),
+        kdebase-workspace-wallpapers (<< 4:4.6.80),
+        kdm (<< 4:4.6.0)
+Replaces: kdebase-workspace-data (<< 4:4.6.80),
+          kdebase-workspace-wallpapers (<< 4:4.6.80),
+          kdm (<< 4:4.6.0)
+Description: set of wallpapers for the Plasma workspace
+ This package contains wallpapers from KDE. It's not installed by default
+ to save space.
+
+Package: kde-wallpapers-default
+Architecture: all
+Depends: ${misc:Depends}
+Breaks: kde-wallpapers (<< 4:4.7.0),
+        kde-workspace-data (<< 4:4.7.0-0ubuntu2~),
+        kdebase-workspace-data (<< 4:4.6.80),
+        kdebase-workspace-wallpapers (<< 4:4.6.80)
+Replaces: kde-wallpapers (<< 4:4.7.0),
+          kde-workspace-data (<< 4:4.7.0-0ubuntu2~),
+          kdebase-workspace-data (<< 4:4.6.80),
+          kdebase-workspace-wallpapers (<< 4:4.6.80)
+Description: default wallpaper for the Plasma workspace
+ This package contains the default wallpaper for the KDE Plasma workspace.

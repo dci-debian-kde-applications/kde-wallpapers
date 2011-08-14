@@ -1,0 +1,21 @@
+kde-wallpapers (4:4.7.0-0ubuntu2) oneiric; urgency=low
+
+  * Make kde-wallpapers-default break/replace old versions of kde-workspace-data
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Fri, 29 Jul 2011 17:13:32 +0200
+
+kde-wallpapers (4:4.7.0-0ubuntu1) oneiric; urgency=low
+
+  [ Philip Muškovac ]
+  * New upstream release
+
+  [ Felix Geyer ]
+  * Put the default wallpaper into the new package kde-wallpapers-default.
+
+ -- Felix Geyer <debfx-pkg@fobos.de>  Thu, 28 Jul 2011 16:17:36 +0200
+
+kde-wallpapers (4:4.6.90-0ubuntu1) oneiric; urgency=low
+
+  * New upstream release (moved out of kde(base)-workspace)
+
+ -- Harald Sitter <apachelogger@ubuntu.com>  Sun, 10 Jul 2011 11:26:21 +0200
