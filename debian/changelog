@@ -1,5 +1,5 @@
-kde-wallpapers (4:4.7.0-0r0) UNRELEASED; urgency=low
+kde-wallpapers (4:4.7.2-0r0) UNRELEASED; urgency=low
 
   * Initial release. 
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 14 Aug 2011 14:12:14 +0200
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 23 Oct 2011 00:57:13 +0200
