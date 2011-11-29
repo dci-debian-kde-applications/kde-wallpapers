@@ -2,15 +2,17 @@
 
 KDE_DEFAULT_WALLPAPER := Horos
 
+walldir := usr/share/wallpapers
+
 include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
 
 override_dh_auto_install:
 	$(overridden_command) --destdir=$(CURDIR)/debian/kde-wallpapers/
 
 override_dh_install:
-	mv $(CURDIR)/debian/kde-wallpapers/usr/share/wallpapers/$(KDE_DEFAULT_WALLPAPER)/ \
-	   $(CURDIR)/debian/kde-wallpapers-default/usr/share/wallpapers/
+	mv $(CURDIR)/debian/kde-wallpapers/$(walldir)/$(KDE_DEFAULT_WALLPAPER)/ \
+	   $(CURDIR)/debian/kde-wallpapers-default/$(walldir)/
 
 override_dh_link:
-	$(overridden_command) -pkde-wallpapers-default usr/share/wallpapers/$(KDE_DEFAULT_WALLPAPER)/contents/images/1920x1200.png usr/share/wallpapers/kde-default.png
+	$(overridden_command) -pkde-wallpapers-default $(walldir)/$(KDE_DEFAULT_WALLPAPER)/contents/images/1920x1200.png $(walldir)/kde-default.png
 	$(overridden_command) --remaining-packages
