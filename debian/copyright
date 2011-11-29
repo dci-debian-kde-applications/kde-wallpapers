@@ -65,6 +65,7 @@ License: LGPL-3
 
 Files: debian/*
 Copyright: 2011, Harald Sitter <apachelogger@ubuntu.com>
+           2011, Pino Toscano <pino@debian.org>
 License: LGPL-3+
 
 License: LGPL-3
