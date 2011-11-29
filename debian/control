@@ -23,9 +23,9 @@ Description: set of wallpapers for the Plasma workspace
 Package: kde-wallpapers-default
 Architecture: all
 Depends: ${misc:Depends}
-Breaks: kde-wallpapers (<< 4:4.7.0),
+Breaks: kde-wallpapers (<< 4:4.7.2-0r0),
  kdebase-workspace-data (<< 4:4.6.80),
-Replaces: kde-wallpapers (<< 4:4.7.0),
+Replaces: kde-wallpapers (<< 4:4.7.2-0r0),
  kdebase-workspace-data (<< 4:4.6.80),
 Description: default wallpaper for the Plasma workspace
  This package contains the default wallpaper for the KDE Plasma workspace.
