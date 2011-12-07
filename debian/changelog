@@ -1,10 +1,10 @@
 kde-wallpapers (4:4.7.4-0r0) UNRELEASED; urgency=low
 
-  * New upstream version.
+  * New upstream release.
 
-  [ Eshat Cakar]
+  [ Eshat Cakar ]
   * Add myself to uploaders.
-  * Bump kde-sc-dev-latest dependecy to 4.7.4.
+  * Bump kde-sc-dev-latest dependency to 4.7.4.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 06 Dec 2011 16:54:54 +0100
 
