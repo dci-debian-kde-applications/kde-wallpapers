@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-KDE_DEFAULT_WALLPAPER := Horos
+KDE_DEFAULT_WALLPAPER := Ariya
 
 walldir := usr/share/wallpapers
 
