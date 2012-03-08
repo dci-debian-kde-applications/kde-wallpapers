@@ -1,4 +1,4 @@
-kde-wallpapers (4:4.8.0-0r0) UNRELEASED; urgency=low
+kde-wallpapers (4:4.8.1-0r0) UNRELEASED; urgency=low
 
   * New upstream release.
 
@@ -6,7 +6,7 @@ kde-wallpapers (4:4.8.0-0r0) UNRELEASED; urgency=low
   * Switch to Ariya, the new default wallpaper.
   * Bump build-dependency of kdelibs5-dev to version 4:4.8.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 05 Jan 2012 15:44:53 +0100
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 08 Mar 2012 21:24:04 +0100
 
 kde-wallpapers (4:4.7.4-1) experimental; urgency=low
 
