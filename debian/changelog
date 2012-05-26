@@ -1,6 +1,7 @@
-kde-wallpapers (4:4.8.3-0r1) UNRELEASED; urgency=low
+kde-wallpapers (4:4.8.3-1) experimental; urgency=low
 
   * New upstream release.
+  * Team upload.
 
   [ Eshat Cakar ]
   * Switch to Ariya, the new default wallpaper.
@@ -13,7 +14,7 @@ kde-wallpapers (4:4.8.3-0r1) UNRELEASED; urgency=low
   * No unofficial revisions in debian/control.
   * Improve descriptions.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 08 Mar 2012 21:24:04 +0100
+ -- Modestas Vainius <modax@debian.org>  Sun, 27 May 2012 02:32:32 +0300
 
 kde-wallpapers (4:4.7.4-2) unstable; urgency=low
 
