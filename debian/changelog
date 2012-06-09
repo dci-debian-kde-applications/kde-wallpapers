@@ -1,12 +1,13 @@
-kde-wallpapers (4:4.8.4-0r1) UNRELEASED; urgency=low
+kde-wallpapers (4:4.8.4-1) unstable; urgency=low
 
   * New upstream release.
+  * Team upload.
 
   [ Eshat Cakar ]
   * Add watch file.
   * Bump build-dependency of kde-sc-dev-latest to version 4:4.8.4.
 
- -- Eshat Cakar <info@eshat.de>  Tue, 05 Jun 2012 13:35:29 +0200
+ -- Modestas Vainius <modax@debian.org>  Sat, 09 Jun 2012 15:47:13 +0300
 
 kde-wallpapers (4:4.8.3-1) experimental; urgency=low
 
