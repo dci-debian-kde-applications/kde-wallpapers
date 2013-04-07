@@ -1,3 +1,11 @@
+kde-wallpapers (4:4.10.2-1) UNRELEASED; urgency=low
+
+  * New upstream release.
+  * Bump build-deps.
+  * Update uploaders.
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 19:33:24 +0000
+
 kde-wallpapers (4:4.8.4-1) unstable; urgency=low
 
   * New upstream release.
