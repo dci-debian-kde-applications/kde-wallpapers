@@ -1,5 +1,10 @@
 kde-wallpapers (4:4.10.2-2) UNRELEASED; urgency=low
 
+  [ Pino Toscano ]
+  * Correctly set Elarun as the default wallpaper, as it is set upstream.
+    Since Ariya and Elarun swaps places between kde-wallpapers and
+    kde-wallpapers-default, set proper breaks/replaces in both against
+    previous versions of the other.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 20 Apr 2013 15:33:00 +0200
 

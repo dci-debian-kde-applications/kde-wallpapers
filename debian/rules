@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-KDE_DEFAULT_WALLPAPER := Ariya
+KDE_DEFAULT_WALLPAPER := Elarun
 
 walldir := usr/share/wallpapers
 
