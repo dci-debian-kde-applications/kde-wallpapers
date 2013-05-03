@@ -3,64 +3,64 @@ Upstream-Name: KDE Wallpapers
 Upstream-Contact: kde-devel@kde.org
 Source: ftp.kde.org
 
-Files: Media_Life/*
-Copyright: Eugene Trounev <eugene.trounev@gmail.com>
+Files: Ariya/*
+Copyright: Eshat Cakar <info@eshat.de>
 License: LGPL-3
 
-Files: Horos/*
-Copyright: Nuno Pinheiro <nuno@oxygen-icons.org>
-License: LGPL-3
-
-Files: Finally_Summer_in_Germany/*
-Copyright: Kenneth Wimer <ken@oxygen-icons.org>
-License: LGPL-3
-
-Files: Plasmalicious/*
-Copyright: David Vignoni <david@oxygen-icons.org>
-License: LGPL-3
-
-Files: Aghi/*
-Copyright: Matteo Nobile <matteo.nobile@hispeed.ch>
-License: LGPL-3
-
-Files: Fields_of_Peace/*
-Copyright: Kenneth Wimer <ken@oxygen-icons.org>
-License: LGPL-3
-
-Files: Blue_Wood/*
-Copyright: Jonas Arnfred <jonas@ifany.org>
+Files: Auros/*
+Copyright: Davide Bettio <bettio@kde.org>
 License: LGPL-3
 
 Files: Autumn/*
 Copyright: Piotr Adamek <piotr.adamek@gmail.com>
 License: LGPL-3
 
-Files: Evening/*
-Copyright: Christoph Kummer <christoph@traeumt.net>
+Files: Azul/*
+Copyright: Davide Bettio <davide.bettio@kdemail.net>
 License: LGPL-3
 
-Files: Red_Leaf/*
-Copyright: Joseph Connors <josephconnors@usa.net>
+Files: Blue_Wood/*
+Copyright: Jonas Arnfred <jonas@ifany.org>
 License: LGPL-3
 
-Files: Air/*
+Files: Castilla_Sky/*
+Copyright: Luiz Bettoni <lulis@odois.org>
+License: LGPL-3
+
+Files: Elarun/*
 Copyright: Nuno Pinheiro <nuno@oxygen-icons.org>
 License: LGPL-3
 
-Files: Fresh_Morning/*
-Copyright: Pablo León-Asuero Moreno <kapuxino@gmail.com>
+Files: Flores/*
+Copyright: Davide Bettio <bettio@kde.org>
 License: LGPL-3
 
-Files: Hanami/*
-Copyright: Alexandre Courbot <gnurou@gmail.com>
+Files: Flying_Field/*
+Copyright: Luiz Bettoni <lulis@odois.org>
+License: LGPL-3
+
+Files: Fog_on_the_West_Lake/*
+Copyright: Vimac <vifix.mac@gmail.com>
 License: LGPL-3
 
 Files: Grass/*
 Copyright: Risto Saukonpää <risto@saukonpaa.com>
 License: LGPL-3
 
-Files: Quadros/*
+Files: Hanami/*
+Copyright: Alexandre Courbot <gnurou@gmail.com>
+License: LGPL-3
+
+Files: Horos/*
 Copyright: Nuno Pinheiro <nuno@oxygen-icons.org>
+License: LGPL-3
+
+Files: Media_Life/*
+Copyright: Eugene Trounev <eugene.trounev@gmail.com>
+License: LGPL-3
+
+Files: Prato/*
+Copyright: Davide Bettio <bettio@kde.org>
 License: LGPL-3
 
 Files: debian/*
@@ -102,3 +102,4 @@ License: LGPL-3+
  On Debian systems, the full text of the GNU Lesser General Public
  License version 3 can be found in the file
  `/usr/share/common-licenses/LGPL-3'.
+

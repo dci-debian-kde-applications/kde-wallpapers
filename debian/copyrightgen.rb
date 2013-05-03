@@ -86,7 +86,7 @@ class Metadata < IniFile
   end
 end
 
-Dir.glob("*/metadata.desktop").each do | metadataPath |
+Dir.glob("*/metadata.desktop").sort.each do | metadataPath |
   metadata = Metadata.new(metadataPath)
   puts "Files: #{metadataPath.split("/")[0]}/*"
   puts "Copyright: #{metadata.author?} <#{metadata.email?}>"
