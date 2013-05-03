@@ -1,4 +1,4 @@
-kde-wallpapers (4:4.10.2-2) UNRELEASED; urgency=low
+kde-wallpapers (4:4.10.2-2) experimental; urgency=low
 
   [ Pino Toscano ]
   * Correctly set Elarun as the default wallpaper, as it is set upstream.
@@ -6,7 +6,15 @@ kde-wallpapers (4:4.10.2-2) UNRELEASED; urgency=low
     kde-wallpapers-default, set proper breaks/replaces in both against
     previous versions of the other.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 20 Apr 2013 15:33:00 +0200
+  [ Maximiliano Curia ]
+  * Sort the generated part of the copyright to ease maintenance.
+  * Bump debhelper dependency to 9.
+  * Add myself to the uploaders list.
+  * Reshuffle build-dependencies.
+  * Bump kdelibs-dev dependency to 4:4.10.
+  * Bump Standards-Version to 3.9.4, no further changes needed.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 04 May 2013 01:04:50 +0200
 
 kde-wallpapers (4:4.10.2-1) experimental; urgency=low
 
