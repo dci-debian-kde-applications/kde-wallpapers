@@ -1,8 +1,8 @@
-kde-wallpapers (4:4.10.3-1) UNRELEASED; urgency=low
+kde-wallpapers (4:4.10.4-1) UNRELEASED; urgency=low
 
   * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 28 May 2013 00:30:25 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 11 Jun 2013 23:02:59 +0200
 
 kde-wallpapers (4:4.10.2-2) experimental; urgency=low
 
