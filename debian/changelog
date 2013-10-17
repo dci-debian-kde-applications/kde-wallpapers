@@ -1,3 +1,7 @@
+kde-wallpapers (4:4.11.2-2) UNRELEASED; urgency=low
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 16 Oct 2013 22:43:48 -0300
+
 kde-wallpapers (4:4.11.2-1) experimental; urgency=low
 
   * New upstream release.
