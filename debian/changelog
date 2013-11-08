@@ -1,13 +1,14 @@
-kde-wallpapers (4:4.11.3-1) UNRELEASED; urgency=low
+kde-wallpapers (4:4.11.3-1) unstable; urgency=low
+
+  * New upstream release.
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Fix path of the default wallpaper (Closes: #726583).
 
   [ Maximiliano Curia ]
-  * New upstream release.
   * Update build dependencies.
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 08 Nov 2013 13:11:54 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 08 Nov 2013 13:18:34 +0100
 
 kde-wallpapers (4:4.11.2-1) experimental; urgency=low
 
