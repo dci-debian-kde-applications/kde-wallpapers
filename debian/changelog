@@ -1,5 +1,8 @@
 kde-wallpapers (4:4.11.3-2) UNRELEASED; urgency=low
 
+  [ Pino Toscano ]
+  * Remove the kde-default.png symlink, as it is used only in kubuntu, and needs
+    to be manually handled depending on the current default wallpaper.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 12 Jan 2014 17:07:00 +0100
 

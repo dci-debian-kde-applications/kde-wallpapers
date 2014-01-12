@@ -12,7 +12,3 @@ override_dh_auto_install:
 override_dh_install:
 	mv $(CURDIR)/debian/kde-wallpapers/$(walldir)/$(KDE_DEFAULT_WALLPAPER)/ \
 	   $(CURDIR)/debian/kde-wallpapers-default/$(walldir)/
-
-override_dh_link:
-	$(overridden_command) -pkde-wallpapers-default $(walldir)/$(KDE_DEFAULT_WALLPAPER)/contents/images/2560x1600.png $(walldir)/kde-default.png
-	$(overridden_command) --remaining-packages
