@@ -1,4 +1,4 @@
-kde-wallpapers (4:4.11.5-1) UNRELEASED; urgency=low
+kde-wallpapers (4:4.11.5-1) unstable; urgency=low
 
   * New upstream release.
 
@@ -9,7 +9,7 @@ kde-wallpapers (4:4.11.5-1) UNRELEASED; urgency=low
   [ Maximiliano Curia ]
   * Bump Standards-Version to 3.9.5, no changes needed.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 12 Jan 2014 17:07:00 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 26 Jan 2014 19:58:02 +0100
 
 kde-wallpapers (4:4.11.3-1) unstable; urgency=low
 
