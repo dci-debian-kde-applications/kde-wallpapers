@@ -1,6 +1,6 @@
-kde-wallpapers (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+kde-wallpapers (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
 
-  * New upstream beta release
+  * New upstream release candidate
   * Fix watch urls for new release location
   * Update Vcs urls for the new repository location
   * Update the maintainer
