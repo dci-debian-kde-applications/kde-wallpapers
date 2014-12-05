@@ -1,11 +1,15 @@
-kde-wallpapers (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
+kde-wallpapers (4:14.11.97-0ubuntu1~ubuntu15.04~ppa2) vivid; urgency=medium
 
+  [ Philip Muškovac ]
   * New upstream release candidate
   * Fix watch urls for new release location
   * Update Vcs urls for the new repository location
   * Update the maintainer
 
- -- Philip Muškovac <yofel@kubuntu.org>  Mon, 24 Nov 2014 22:50:31 +0100
+  [ Jonathan Riddell ]
+  * PPA build
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 03 Dec 2014 15:03:09 +0100
 
 kde-wallpapers (4:4.14.0-1) unstable; urgency=medium
 
