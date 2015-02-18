@@ -178,6 +178,6 @@ kde-wallpapers (4:4.7.4-1) experimental; urgency=low
 
 kde-wallpapers (4:4.7.2-1) experimental; urgency=low
 
-  * Initial release. 
+  * Initial release.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 03 Dec 2011 10:43:06 -0300
