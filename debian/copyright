@@ -3,6 +3,10 @@ Upstream-Name: KDE Wallpapers
 Upstream-Contact: kde-devel@kde.org
 Source: ftp.kde.org
 
+Files: *
+Copyright: Oxygen artists
+License: LGPL-3
+
 Files: Ariya/*
 Copyright: Eshat Cakar <info@eshat.de>
 License: LGPL-3
