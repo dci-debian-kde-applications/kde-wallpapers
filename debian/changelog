@@ -5,14 +5,37 @@ kde-wallpapers (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 28 Apr 2015 14:47:02 -0700
 
-kde-wallpapers (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+kde-wallpapers (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
-  * New upstream beta release
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:13:26 -0700
+
+kde-wallpapers (4:14.12.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:07:31 -0800
+
+kde-wallpapers (4:14.12.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+  * Remove kdelibs5-dev depend version as there was not a new release.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 15 Dec 2014 16:35:43 +0100
+
+kde-wallpapers (4:14.11.97-0ubuntu1) vivid; urgency=medium
+
+  [ Philip Muškovac ]
+  * New upstream release candidate
   * Fix watch urls for new release location
   * Update Vcs urls for the new repository location
   * Update the maintainer
 
- -- Philip Muškovac <yofel@kubuntu.org>  Mon, 24 Nov 2014 22:50:31 +0100
+  [ Jonathan Riddell ]
+  * PPA build
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 03 Dec 2014 15:03:09 +0100
 
 kde-wallpapers (4:4.14.0-1) unstable; urgency=medium
 
