@@ -1,9 +1,10 @@
-kde-wallpapers (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
+kde-wallpapers (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
   * Bump kdelibs version
+  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 28 Apr 2015 14:47:02 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 09:53:45 -0700
 
 kde-wallpapers (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
